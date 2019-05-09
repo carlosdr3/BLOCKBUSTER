@@ -21,3 +21,6 @@ Route::resources([
     'formatos'=>'FormatosController',
     'peliculas'=>'PeliculasController'
 ]);
+Route::get('/carlos', function () {
+    return view('carloss.carlos');
+});

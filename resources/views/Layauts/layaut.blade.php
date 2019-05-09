@@ -29,6 +29,7 @@
         <li class="nav-item"><a href="{{url("sexos")}}" class="nav-link text-white">Sexos</a></li>
         <li class="nav-item"><a href="{{url("stands")}}" class="nav-link text-white">Stands</a></li>
         <li class="nav-item"><a href="{{url("formatos")}}" class="nav-link text-white">Formatos</a></li>
+        <li class="nav-item"><a href="{{url("/carlos")}}" class="nav-link text-white">Carlos</a></li>
 
 
 
